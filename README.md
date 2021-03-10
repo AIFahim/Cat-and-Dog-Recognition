@@ -17,4 +17,12 @@ MVC | Java | TensorFlow Lite and Many Android Components like recyclerview , web
 
 
 
+## Maintainers and Developers (Team Alachi)
+This repository is owned and maintained by 
+ * [Md. Asif Iqbal Fahim](https://github.com/AIFahim)
+ * [Farhad Hossen](https://github.com/farhadhossen)
+ * [Moin Akash](https://github.com/moinakash)
+
+
+
 
