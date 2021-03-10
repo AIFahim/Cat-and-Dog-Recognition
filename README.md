@@ -1,6 +1,6 @@
 # TensorFlow Lite Object Detection Android Demo
 ![Author](https://img.shields.io/badge/author-AIFahim-orange)
-[![License Badge](https://img.shields.io/badge/license-GPL%203.0-blue)](https://github.com/AIFahim/Cat-and-Dog-Recognition/blob/master/LICENSE)
+[![License Badge](https://img.shields.io/badge/license-MIT-blue)](https://github.com/AIFahim/Cat-and-Dog-Recognition/blob/master/LICENSE)
 
 <hr>
 
